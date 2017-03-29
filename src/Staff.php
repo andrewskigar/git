@@ -5,7 +5,7 @@ namespace Acme;
 use Acme\Users\Person;
 
 /**
- * Stuff class
+ * Staff class
  */
 class Staff
 {
