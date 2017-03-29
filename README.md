@@ -1,2 +1,2 @@
 # git
-Lerning Git
+Lerning Git!
