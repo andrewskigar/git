@@ -13,5 +13,6 @@ $staff = new Staff([$andrew]);
 $acme = new Business($staff);
 
 $acme->hire(new Person('Jane Doe'));
+$acme->hire(new Person('Jone Doe'));
 
 var_dump($acme->getStuffMembers());
