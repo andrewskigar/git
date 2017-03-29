@@ -5,7 +5,7 @@ namespace Acme;
 use Acme\Users\Person;
 
 /**
- * Business simole class
+ * Business class
  */
 class Business
 {
