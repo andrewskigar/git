@@ -1,5 +1,6 @@
 <?php
 
+//bootstrap App
 require "vendor/autoload.php";
 
 use Acme\Users\Person;
